@@ -80,5 +80,14 @@ table, table th, table td
     background-image: url('notredame.jpg');
     height: 200px;
     text-align: center;
-    font-size: 48pt;
+    font-size: 48;
+}
+
+h2 {
+font-size: 18;
+}
+
+h3 {
+    font-weight: 14;
+    font-style: italic;
 }
